@@ -10,4 +10,26 @@
 .map {
     width: 360px;
     height: 260px;
+    margin: 20px;
+}
+
+.lahtiolek {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin: 20px;
+
+}
+.aadress {
+    font-size: 18px;
+    font-weight: bold;
+    text-align: center;
+}
+body {
+      font-family: "Momo Signature", cursive;
+     font-weight: 400;
+     font-style: normal;
+    margin: 0;
+    padding: 0;
+    background-image: url('bg.png');
 }
